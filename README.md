@@ -74,6 +74,7 @@ The model is deployed with **Streamlit**, allowing users to:
 ![Confusion matrix](images/3.PNG)
 
 ### ROC curve
+![ROC curve](images/5.PNG)
 ![ROC curve](images/4.PNG)
 
 ---
